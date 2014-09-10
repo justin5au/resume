@@ -1,0 +1,135 @@
+/*! Your Custom styles */
+
+
+body {
+	font-family: "Open Sans", Helvetica, sans-serif;
+}
+
+.sidecontainer {
+	display:block;
+}
+
+.maincontainer {
+	display:inline-block;
+	margin-top:85px;
+	margin-left:480px;
+	width:650px;
+}
+
+.title {
+	font-family: "Open Sans", Helvetica, sans-serif;
+	font-size: 1em;
+	font-weight: 900;
+	display: inline-block;
+	line-height:1.5;
+}
+
+.location {
+	font-family: "Open Sans", Helvetica, sans-serif;
+	font-size: 0.9em;
+	font-weight: 500;
+	font-style: italic;
+	line-height:1.2;
+	display: inline-block;
+}
+
+.subheader {
+	font-family: "Open Sans", Helvetica, sans-serif;
+	font-size: .9em;
+	font-weight: 600;
+	display: block;
+	margin-top:10px;
+	margin-bottom:3px;
+}
+
+.description {
+	font-family: "Open Sans", Helvetica, sans-serif;
+	font-size: .8em;
+	font-weight: 300;	
+	display: block;
+	line-height:1.6;
+}
+
+.description2 {
+	font-family: "Open Sans", Helvetica, sans-serif;
+	font-size: .85em;
+	font-weight: 400;	
+	display: block;
+	line-height:1.6;
+	margin-bottom:8px;
+
+}
+
+.position {
+	font-family: "Open Sans", Helvetica, sans-serif;
+	font-size: .8em;
+	font-weight: 600;
+	font-style: italic;
+	display: block;
+	margin-top:1px;
+	margin-bottom:10px;
+}
+
+.extraspace {
+	margin-top:6px;
+}
+
+.downspace {
+	margin-bottom:18px;
+}
+
+.nospace {
+	margin-bottom:4px;
+}
+
+.logo {
+	width: 250px;
+	position:absolute;
+	margin-top:80px;
+	margin-left:200px;
+}
+
+.link {
+	font-family: "Open Sans", Helvetica, sans-serif;
+	color:black;
+	text-decoration: none;
+	font-size: .8em;
+	font-weight: 400;
+	line-height:1.6;
+}
+
+.otherlink {
+	font-family: "Open Sans", Helvetica, sans-serif;
+	color:black;
+	text-decoration: none;
+	font-size: .8em;
+	font-weight: 400;
+	line-height:1.6;
+	display:block;
+	margin-top:2px;
+}
+
+.link:hover {
+	color:#CC0052;
+}
+
+.otherlink:hover {
+	color:#CC0052;
+}
+
+.sectioncontainer {
+	position:absolute;
+	display:block;
+	margin-top:180px;
+	margin-left:348px;
+	text-align:right;
+}
+
+.section {
+	font-family: "Exo 2", Helvetica, sans-serif;
+	font-size: 1.3em;
+	font-weight: 300;
+	display: block;
+	line-height:0.4;
+}
+
