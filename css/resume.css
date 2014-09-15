@@ -200,17 +200,17 @@ body {
 	position:absolute;
 	display:block;
 	margin-top:20px;
-	margin-left:48px;
+	margin-left:28px;
 	text-align:right;
 	display: none;
 }
 
 .logo {
-	width: 250px;
+	width: 200px;
 	display:block;
 	position:relative;
 	margin-top:20px;
-	margin-left:85px;
+	margin-left:60px;
 }
 
 
