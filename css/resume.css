@@ -151,6 +151,13 @@ body {
 	text-align:right;
 }
 
+.logo {
+	width: 250px;
+	position:absolute;
+	margin-top:80px;
+	margin-left:100px;
+}
+
 }
 
 @media all and (min-width: 800px) and (max-width: 1080px) {
