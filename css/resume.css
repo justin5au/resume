@@ -1,4 +1,4 @@
-/*! Your Custom styles */
+
 
 
 body {
@@ -13,7 +13,7 @@ body {
 	display:inline-block;
 	margin-top:85px;
 	margin-left:480px;
-	width:45%;
+	width:650px;
 }
 
 .title {
@@ -32,7 +32,6 @@ body {
 	line-height:1.2;
 	display: inline-block;
 }
-
 
 
 .subheader {
@@ -134,4 +133,62 @@ body {
 	display: block;
 	line-height:0.4;
 }
+
+@media all and (min-width: 1080px) and (max-width: 1200px) {
+
+.maincontainer {
+	display:inline-block;
+	margin-top:85px;
+	margin-left:380px;
+	width:650px;
+}
+
+.sectioncontainer {
+	position:absolute;
+	display:block;
+	margin-top:180px;
+	margin-left:248px;
+	text-align:right;
+}
+
+}
+
+@media all and (min-width: 800px) and (max-width: 1080px) {
+
+.maincontainer {
+	display:inline-block;
+	margin-top:85px;
+	margin-left:280px;
+	width:650px;
+}
+
+.sectioncontainer {
+	position:absolute;
+	display:block;
+	margin-top:180px;
+	margin-left:148px;
+	text-align:right;
+}
+
+}
+
+@media all and (min-width: 0px) and (max-width: 800px) {
+
+.maincontainer {
+	display:inline-block;
+	margin-top:85px;
+	margin-left:180px;
+	width:650px;
+}
+
+.sectioncontainer {
+	position:absolute;
+	display:block;
+	margin-top:180px;
+	margin-left:48px;
+	text-align:right;
+}
+
+}
+
 
