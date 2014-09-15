@@ -191,7 +191,7 @@ body {
 
 .maincontainer {
 	display:inline-block;
-	margin-top:0px;
+	margin-top:20px;
 	margin-left:180px;
 	width:650px;
 }
@@ -209,7 +209,11 @@ body {
 	display:block;
 	position:relative;
 	margin-top:20px;
-	margin-left:140px;
+	margin-left:110px;
+}
+
+.sidecontainer {
+	display:none;
 }
 
 }
