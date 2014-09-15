@@ -192,8 +192,8 @@ body {
 .maincontainer {
 	display:inline-block;
 	margin-top:20px;
-	margin-left:180px;
-	width:650px;
+	margin-left:130px;
+	width:80%;
 }
 
 .sectioncontainer {
@@ -202,6 +202,7 @@ body {
 	margin-top:20px;
 	margin-left:48px;
 	text-align:right;
+	display: none;
 }
 
 .logo {
@@ -209,12 +210,9 @@ body {
 	display:block;
 	position:relative;
 	margin-top:20px;
-	margin-left:110px;
+	margin-left:85px;
 }
 
-.sidecontainer {
-	display:none;
-}
 
 }
 
